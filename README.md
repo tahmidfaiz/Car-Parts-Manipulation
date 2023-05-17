@@ -14,3 +14,8 @@ Option 4 allows the user to delete a car part by inputting the index of the car 
 Option 9 exits the program. 
 
 # Visual Representation of the Program 
+<img width="483" alt="Screen Shot 2023-05-17 at 3 11 30 AM" src="https://github.com/tahmidfaiz/Car-Parts-Manipulation/assets/113638585/5e2795e2-9c70-45e3-8867-e95cb8dbd827">
+
+ <img width="483" alt="Screen Shot 2023-05-17 at 3 11 43 AM" src="https://github.com/tahmidfaiz/Car-Parts-Manipulation/assets/113638585/a676f2f0-1a18-4317-ad93-403735dfebac">
+ 
+<img width="487" alt="Screen Shot 2023-05-17 at 3 11 54 AM" src="https://github.com/tahmidfaiz/Car-Parts-Manipulation/assets/113638585/2328184e-e0d6-4aef-9655-dec0c9645746">
