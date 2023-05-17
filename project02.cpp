@@ -1,9 +1,7 @@
 //==========================================================
 //
 // Title:      Project-2 Part Pretenders
-// Course:     CSC 1100
 // Author:     Tahmid Faiz
-// Date:       27 April 2021
 //==========================================================
 #include <cstdlib> // For several general-purpose functions
 #include <fstream> // For file handling
